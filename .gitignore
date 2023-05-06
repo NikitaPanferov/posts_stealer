@@ -1,0 +1,12 @@
+.bin
+.env
+venv/
+__pycache__/
+*.DS_Store
+.history/
+.vscode/*
+ignore/
+.idea/
+*.session
+*.session-journal
+
